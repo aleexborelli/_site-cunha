@@ -380,6 +380,24 @@ border-radius: 5px;
 .btn-outline-neutral:hover {
   background-color: #a4c639  !important;
 }
-.queme a{
+.queme {
   margin-top: 80px;
+}
+
+.frase {
+  margin-top: 100px;
+}
+
+#botao {
+  margin-top: 50px;
+
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#botao:hover {
+  background: #fff;
+  color: #000;
 }
